@@ -12,5 +12,6 @@ public class Table9 {
         System.out.printf("8 * 9 = %d%n", 8 * 9);
         System.out.printf("9 * 9 = %d%n", 9 * 9);
         System.out.printf("10 * 10 = %d%n", 10 * 9);
+        System.out.println("1 * 9 = " + (9 * 1));
     }
 }
