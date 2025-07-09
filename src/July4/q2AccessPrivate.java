@@ -14,6 +14,7 @@ public class q2AccessPrivate {
 
 class hnbBank{
 
+
     public String getUserName() {
         return UserName;
     }
