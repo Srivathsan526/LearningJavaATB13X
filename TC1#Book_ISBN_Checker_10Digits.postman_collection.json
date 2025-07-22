@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "fc345b2f-65fe-474b-8526-f2abdd74ce10",
+		"name": "TC1#Book_ISBN_Checker_10Digits",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25477650",
+		"_collection_link": "https://www.postman.com/sri526/workspace/atb13x/collection/25477650-fc345b2f-65fe-474b-8526-f2abdd74ce10?action=share&source=collection_link&creator=25477650"
+	},
+	"item": [
+		{
+			"name": "Postive Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Negative Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
